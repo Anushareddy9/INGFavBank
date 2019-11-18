@@ -86,7 +86,7 @@
 	<distributionManagement>
   		<snapshotRepository>
     			<id>artifactory</id>
-    			<url>http://3.17.178.55:8081/artifactory/libs-snapshot-local/</url>
+    			<url>http://3.17.178.55:8081/artifactory/Anusha/</url>
   		</snapshotRepository>
 	</distributionManagement> 
 

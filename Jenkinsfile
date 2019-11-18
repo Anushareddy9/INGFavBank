@@ -1,6 +1,6 @@
 pipeline {
    agent any
-            stages {
+        stages {
       stage('Git Checkout') {
          steps {
             git 'https://github.com/Anushareddy9/INGFavBank.git'

@@ -83,6 +83,12 @@
 		</dependency>
 
 	</dependencies>
+	<distributionManagement>
+  		<snapshotRepository>
+    			<id>artifactory</id>
+    			<url>http://3.17.178.55:8081/artifactory/libs-snapshot-local/</url>
+  		</snapshotRepository>
+	</distributionManagement> 
 
 	<build>
 		<plugins>

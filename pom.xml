@@ -86,7 +86,7 @@
 	<distributionManagement>
   		<snapshotRepository>
     			<id>artifactory</id>
-    			<url>http://3.17.178.55:8081/artifactory/Anusha/</url>
+    			<url>http://18.222.120.180:8081/artifactory/Anusha/</url>
   		</snapshotRepository>
 	</distributionManagement> 
 
